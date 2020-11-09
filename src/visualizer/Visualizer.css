@@ -1,0 +1,25 @@
+.grid-container {
+    margin: 2% auto;
+}
+
+.grid {
+    white-space: pre;
+}
+
+button {
+    margin: 2px;
+}
+
+.footer {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(107, 3, 252);
+    background: linear-gradient(to right, rgb(107, 3, 252, 1), rgba(0, 0, 0, 1));
+    bottom: 0px;
+    position: sticky;
+    z-index: 100;
+    white-space: pre;
+}
+
